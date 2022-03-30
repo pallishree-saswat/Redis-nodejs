@@ -1,0 +1,8 @@
+#REDIS
+Remote Dictonary Server is a fast, open source, in-memory,
+key-value data store.
+It is  a popular choice for caching, session management
+
+install
+---------
+npm i redis
